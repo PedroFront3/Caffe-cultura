@@ -282,7 +282,7 @@ button.btn3 {
   left: 50%;
   transition: 1s;
   opacity: 1;
-  transform: translate(-50%, -20%);
+  transform: translate(-50%, -30%);
   cursor: pointer;
 }
 
