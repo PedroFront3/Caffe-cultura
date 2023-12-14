@@ -305,7 +305,7 @@ button.btn4 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -200%);
+  transform: translate(-50%, -115%);
   cursor: pointer;
 }
 
