@@ -101,7 +101,7 @@ nav.menu-desktop a:hover {
   height: 30px;
   position: absolute;
   right: 0;
-  top: 27px;
+  top: 29px;
   font-size: 17px;
   text-align: center;
   line-height: 32px;
@@ -472,7 +472,7 @@ button.btn2:hover {
   position: relative;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, 600%);
+  transform: translate(-50%, 580%);
 }
 
 .e-mail {
