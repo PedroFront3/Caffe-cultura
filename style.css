@@ -197,7 +197,7 @@ nav.menu-mobile ul li a {
   border-radius: 4px;
   max-width: 1400px;
   box-shadow: 0px -1px 17px -1px #be4107;
-  padding: 30px 2%;
+  padding: 27px 2%;
   background-color: rgb(255, 255, 255);
   cursor: pointer;
   position: relative;
@@ -217,7 +217,7 @@ nav.menu-mobile ul li a {
   top: 50%;
   left: 50%;
   transition: 1s;
-  transform: translate(-50%, -74%);
+  transform: translate(-50%, -180%);
 }
 
 .card:hover {
