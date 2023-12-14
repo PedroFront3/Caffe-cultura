@@ -197,7 +197,7 @@ nav.menu-mobile ul li a {
   border-radius: 4px;
   max-width: 1400px;
   box-shadow: 0px -1px 17px -1px #be4107;
-  padding: 20px 2%;
+  padding: 17px 2%;
   background-color: rgb(255, 255, 255);
   cursor: pointer;
   position: relative;
@@ -323,7 +323,7 @@ button.btn4:hover {
   height: 30px;
   position: absolute;
   right: 10px;
-  top: -156px;
+  top: -154px;
   font-size: 18px;
   text-align: center;
   line-height: 32px;
