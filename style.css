@@ -252,7 +252,7 @@ nav.menu-mobile ul li a {
   top: 50%;
   left: 50%;
   transition: 1s;
-  transform: translate(-50%, -98%);
+  transform: translate(-50%, -105%);
 }
 
 .card2 img {
@@ -282,7 +282,7 @@ button.btn3 {
   left: 50%;
   transition: 1s;
   opacity: 1;
-  transform: translate(-50%, -63%);
+  transform: translate(-50%, -60%);
   cursor: pointer;
 }
 
