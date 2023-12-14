@@ -100,8 +100,8 @@ nav.menu-desktop a:hover {
   width: 30px;
   height: 30px;
   position: absolute;
-  right: -2px;
-  top: 60px;
+  right: 0;
+  top: 80px;
   font-size: 17px;
   text-align: center;
   line-height: 32px;
