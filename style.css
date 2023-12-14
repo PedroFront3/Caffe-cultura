@@ -101,7 +101,7 @@ nav.menu-desktop a:hover {
   height: 30px;
   position: absolute;
   right: 0;
-  top: 70px;
+  top: -50px;
   font-size: 17px;
   text-align: center;
   line-height: 32px;
@@ -282,7 +282,7 @@ button.btn3 {
   left: 50%;
   transition: 1s;
   opacity: 1;
-  transform: translate(-50%, -136%);
+  transform: translate(-50%, -132%);
   cursor: pointer;
 }
 
