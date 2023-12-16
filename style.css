@@ -378,7 +378,7 @@ button.btn1:hover {
 
 .icons-social {
   padding: 0 5%;
-  margin-top: 0px;
+  margin-top: 200px;
 }
 
 .icons-social i {
@@ -563,7 +563,7 @@ button.btn2:hover {
     height: 20px;
   }
   .icons-social {
-    margin-top: 190px;
+    margin-top: 50px;
   }
   .icons-social i {
     padding: 10px 10px;
