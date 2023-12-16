@@ -526,7 +526,7 @@ button.btn2:hover {
   }
   .title-left {
     position: relative;
-    top: 80px;
+    top: 100px;
     text-align: center;
   }
   .title-left h1 {
@@ -563,7 +563,7 @@ button.btn2:hover {
     height: 20px;
   }
   .icons-social {
-    margin-top: 130px;
+    margin-top: 125px;
   }
   .icons-social i {
     padding: 10px 10px;
