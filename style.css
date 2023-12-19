@@ -311,7 +311,7 @@ button.btn4 {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, 430%);
+  transform: translate(-50%, 420%);
   cursor: pointer;
 }
 
@@ -565,7 +565,7 @@ button.btn2:hover {
     height: 20px;
   }
   .icons-social {
-    margin-top: 230px;
+    margin-top: 190px;
   }
   .icons-social i {
     padding: 10px 10px;
