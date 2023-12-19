@@ -101,7 +101,7 @@ nav.menu-desktop a:hover {
   height: 30px;
   position: absolute;
   right: 1px;
-  top: 59px;
+  top: 62px;
   font-size: 17px;
   text-align: center;
   line-height: 32px;
@@ -565,7 +565,7 @@ button.btn2:hover {
     height: 20px;
   }
   .icons-social {
-    margin-top: 125px;
+    margin-top: 300px;
   }
   .icons-social i {
     padding: 10px 10px;
