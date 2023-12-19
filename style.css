@@ -262,7 +262,7 @@ nav.menu-mobile ul li a {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -15%);
+  transform: translate(-50%, -11%);
 }
 
 .card2 p {
