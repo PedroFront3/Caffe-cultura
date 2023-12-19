@@ -126,7 +126,7 @@ nav.menu-mobile {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -80%);
-  cursor:pointer;
+  
 }
 
 nav.menu-mobile ul {
@@ -155,6 +155,7 @@ nav.menu-mobile ul li a {
   height: 32px;
   background-image: url(assets/cardapio.png);
   background-size: 100% 100%;
+  cursor:pointer;
 }
 
 .title-left {
