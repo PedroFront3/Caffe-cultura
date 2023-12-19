@@ -100,7 +100,7 @@ nav.menu-desktop a:hover {
   width: 30px;
   height: 30px;
   position: absolute;
-  right: -1px;
+  right: -2px;
   top: 64px;
   font-size: 17px;
   text-align: center;
@@ -262,7 +262,7 @@ nav.menu-mobile ul li a {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -11%);
+  transform: translate(-50%, -5%);
 }
 
 .card2 p {
