@@ -101,7 +101,7 @@ nav.menu-desktop a:hover {
   height: 30px;
   position: absolute;
   right: 1px;
-  top: 50px;
+  top: 59px;
   font-size: 17px;
   text-align: center;
   line-height: 32px;
@@ -126,6 +126,7 @@ nav.menu-mobile {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -80%);
+  cursor:pointer;
 }
 
 nav.menu-mobile ul {
