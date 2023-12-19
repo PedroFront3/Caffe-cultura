@@ -97,12 +97,12 @@ nav.menu-desktop a:hover {
 }
 
 .closeBtn {
-  width: 30px;
-  height: 30px;
+  width: 29px;
+  height: 29px;
   position: absolute;
   right: -3px;
   top: 64px;
-  font-size: 17px;
+  font-size: 16px;
   text-align: center;
   line-height: 32px;
   border-radius: 20px;
